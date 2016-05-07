@@ -1,2 +1,2 @@
 # Miller-Berkeley
-LiKa.pdf contains an overview of the code and the project.
+LiKa.pdf and LiKa_poster.pdf contain an overview of the code and the project.
